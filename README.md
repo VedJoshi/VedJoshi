@@ -15,7 +15,7 @@ and software projects.
 
 ## a few projects
 
-**Gaussian Splat Compression**  
+**[Gaussian Splat Compression](https://github.com/VedJoshi/gaussian-splat-compression)**  
 Tools for measuring compression quality and exporting compact 3D Gaussian Splatting
 files. One 1M-Gaussian scene went from 236 MB to 32 MB with a custom `.splat` encoder.
 
