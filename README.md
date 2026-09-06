@@ -2,7 +2,7 @@
 
 # Ved Joshi
 
-### AI · Computer Vision · SWE
+### AI/ML · Computer Vision · SWE
 
 Computer Science student at NUS. I build AI, computer vision, and software projects.
 
