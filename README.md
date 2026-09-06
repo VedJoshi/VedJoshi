@@ -7,7 +7,6 @@
 Computer Science student at the National University of Singapore, building practical
 ML systems—from robust visual models to fast, reliable full-stack products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-101828?style=for-the-badge&logo=vercel&logoColor=white)](https://vedjoshi.github.io/personal-website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://sg.linkedin.com/in/ved-joshi-470786116)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ved.t.joshi@gmail.com)
 
