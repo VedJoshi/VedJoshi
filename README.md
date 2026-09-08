@@ -35,5 +35,5 @@ A hackathon project for vehicle discovery, booking, and AI-assisted support.
 
 ## outside of work
 
-I follow football, especially football analytics. I also like computer graphics and
-building side projects with interesting interfaces.
+I follow football, enjoy doing some football analytics. I also like to tinker with real life 
+applications of computer vision and building side projects (often beer related).
