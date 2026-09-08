@@ -7,7 +7,7 @@
 I am a Computer Science student at NUS. I work on machine learning, computer vision,
 and software projects.
 
-## now
+## [now](https://github.com/VedJoshi/fyp-vit-adversarial-robustness)
 
 - Writing my undergraduate thesis on adversarial robustness in Vision Transformers.
 - Building tools for 3D Gaussian Splatting compression and evaluation.
